@@ -1,0 +1,25 @@
+/* global css */
+*{
+    font-style:  10PX;
+    font-weight: 500;
+}
+/* External CSS */
+H3{
+    color: rgb(229, 29, 255);
+}
+/* element selector */
+h4{
+    color: rgb(228, 213, 11);
+}
+/* class selector */
+MYCLASS{
+    color: rgb(0, 60, 255);
+}
+/* id selector */
+#myid{
+    color: aquamarine;
+}
+/* group selector */
+h5,p{
+    color: blueviolet;
+}
